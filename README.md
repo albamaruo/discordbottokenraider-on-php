@@ -1,1 +1,1 @@
-# discordbottokenraider-on-php
+composerを手間だけどディレクトリ通りに配置してください
